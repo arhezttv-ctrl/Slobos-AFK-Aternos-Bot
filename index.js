@@ -1224,7 +1224,7 @@ function createBot() {
       skipValidation: true, // <--- PASTE THIS LINE HERE (Don't forget the comma
     });
  // ---- PASTE THIS LINE DIRECTLY BELOW THE CLOSING BRACKET ----
-    bot.protocolVersion = 767; 
+    bot.protocolVersion = 776; 
     bot.loadPlugin(pathfinder);
 
     // FIX: connection timeout - end the old bot before reconnecting to avoid ghost bots
