@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Lurk McLurkson",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "OldVageen.aternos.me",
+    "port": 61458,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm forever trapped in this world because I dont care to be active in OldVageen...",
+        "I wish I put effort into getting rid of my poop...",
+        "I don't wash my ass."
       ]
     },
     "chat-log": true,
