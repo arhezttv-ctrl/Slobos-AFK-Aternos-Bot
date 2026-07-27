@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OldVageen.aternos.me",
+    "ip": "medaka.aternos.host",
     "port": 61458,
     "version": "",
     "try-creative": false
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -38,8 +38,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 1500,
+    "max-reconnect-delay": 300000
   },
   "movement": {
     "enabled": true,
